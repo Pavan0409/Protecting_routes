@@ -1,0 +1,55 @@
+.main {
+  /* background-color:antiquewhite; */
+  /* padding: 5px; */
+}
+.form {
+  border: 2px;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 2%;
+  background-color: tomato;
+  border-radius: 12px;
+}
+
+.form h2 {
+  text-align: center;
+}
+
+.labput {
+  text-align: center;
+  padding: 12px;
+}
+.bnt {
+  text-align: center;
+  padding: 12px;
+}
+
+.ul {
+  display: flex;
+  background-color: rgba(85, 178, 217, 0.003);
+  border: 8px solid tomato;
+  border-radius: 5px;
+  width: 75%;
+  height: 2rem;
+  margin-left: 12.5%;
+}
+
+.ul li {
+  display: flex;
+  font-size: 15px;
+  padding: 5px;
+  flex-direction: column;
+  padding: 10px 40px;
+  height: 2rem;
+}
+
+edbtn{
+  border-radius: 2px;
+  color:orange
+}
+
+.btnn {
+  margin-left: 50px;
+  height: 2rem;
+  color: tomato;
+}
